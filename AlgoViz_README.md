@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-🔗 [algoviz.netlify.app](https://algoviz.netlify.app) *(deploying soon)*
+🔗 [algoviz.netlify.app](https://courageous-bienenstitch-c06f18.netlify.app)
 
 ---
 
@@ -52,15 +52,13 @@
 
 ## Screenshots
 
-> *(Add screenshots here after deployment)*
-
 | Sorting Visualizer | Graph Visualizer |
 |---|---|
-| ![sorting](#) | ![graph](#) |
+| <img width="1917" height="1027" alt="Screenshot 2026-07-21 182817" src="https://github.com/user-attachments/assets/25e4ad06-21d9-42d4-84cc-672a5c6fabeb" /> | <img width="1917" height="1026" alt="Screenshot 2026-07-21 182901" src="https://github.com/user-attachments/assets/be44c873-2453-486e-aac6-c7fe78ef61da" /> |
 
 | Pathfinding Grid | AI Solver |
 |---|---|
-| ![pathfinding](#) | ![solver](#) |
+| <img width="1917" height="1025" alt="Screenshot 2026-07-21 183014" src="https://github.com/user-attachments/assets/3bdb65eb-52ec-45aa-9f54-4762e9cfb642" /> | <img width="1917" height="1022" alt="Screenshot 2026-07-21 183642" src="https://github.com/user-attachments/assets/c900bdbe-bc51-44e2-9e74-b204561de1ba" /> |
 
 ---
 
