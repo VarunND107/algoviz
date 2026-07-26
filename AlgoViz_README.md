@@ -176,7 +176,7 @@ And get back: the recommended algorithm, why it fits, and its time/space complex
 
 **Varun ND** — Full Stack Developer, Bengaluru
 
-- Portfolio: [varunnd.netlify.app](https://varunnd.netlify.app)
+- Portfolio: [varunnd.netlify.app](https://claude.ai/public/artifacts/9769961b-c06d-47dd-b9ca-597f31532f43)
 - LinkedIn: [linkedin.com/in/varunnd-73576731b](https://linkedin.com/in/varunnd-73576731b)
 - Fiverr: [fiverr.com/s/99mGvBY](https://fiverr.com/s/99mGvBY)
 
