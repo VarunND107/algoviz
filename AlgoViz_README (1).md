@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-🔗 [algoviz.netlify.app](https://algoviz.netlify.app) *(deploying soon)*
+🔗 [algoviz.netlify.app]([https://algoviz.netlify.app](https://courageous-bienenstitch-c06f18.netlify.app/))
 
 ---
 
