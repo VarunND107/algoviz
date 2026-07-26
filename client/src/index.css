@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: theme("colors.base.900");
+}
+::-webkit-scrollbar-thumb {
+  background: theme("colors.base.700");
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: theme("colors.accent.DEFAULT");
+}
+
+@layer components {
+  .card {
+    @apply bg-base-850 border border-base-700 rounded-2xl shadow-lg shadow-black/20;
+  }
+
+  .btn {
+    @apply px-4 py-2 rounded-xl font-medium transition-all duration-200 active:scale-95 disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+
+  .btn-primary {
+    @apply btn bg-accent hover:bg-accent-soft text-white shadow-glow;
+  }
+
+  .btn-ghost {
+    @apply btn bg-base-800 hover:bg-base-700 text-slate-200 border border-base-600;
+  }
+
+  .input {
+    @apply bg-base-900 border border-base-600 rounded-xl px-3 py-2 text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-accent transition;
+  }
+}
