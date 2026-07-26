@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA fallback so client-side routes (e.g. /visualizer/bubble_sort) don't 404
+# on a hard refresh or direct link. Also mirrored in public/_redirects.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
